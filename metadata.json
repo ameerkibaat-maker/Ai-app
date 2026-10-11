@@ -1,0 +1,10 @@
+{
+  "name": "Hazri Online Attendance - آن لائن حاضری پورٹل",
+  "description": "مفت آن لائن حاضری سسٹم جس میں ملازمین روزانہ کی حاضری لگائیں اور ہیڈ / ایڈمن کو فوری اطلاع ملے۔ ماہانہ ڈیوٹی کے دن اور چھٹیوں کا مکمل ریکارڈ اور موبائل پر بطور ایپ (APK/PWA) انسٹال کریں۔",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
